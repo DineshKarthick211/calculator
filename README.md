@@ -1,2 +1,2 @@
 # calculator
-A simple Calculator using HTML and CSS where we can solve basic mathematical operations.
+A simple Calculator using Javascript and CSS where we can solve basic mathematical operations.
